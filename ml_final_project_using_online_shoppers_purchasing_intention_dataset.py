@@ -9,9 +9,9 @@ Original file is located at
 ### **Machine Learning Final Project**
 
 By
-1.   Nayem Ahmed (221-115-003)
-2.   Hajifa Begum Jui (221-115-013)
-3.   Rabeya Akter (221-115-010)
+1.   Nayem Ahmed (student.id)
+2.   Hajifa Begum Jui (student.id)
+3.   Rabeya Akter (student.id)
 
 **Task 1: Exploratory Data Analysis (EDA)**
 """
